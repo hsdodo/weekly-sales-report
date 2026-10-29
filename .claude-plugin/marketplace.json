@@ -1,0 +1,14 @@
+{
+  "name": "hsdodo-skills",
+  "owner": {
+    "name": "hsdodo"
+  },
+  "plugins": [
+    {
+      "name": "weekly-sales-report",
+      "source": "./",
+      "description": "구글 시트 '판매관리'로 지난주 주간 매출 리포트를 만들어 슬랙 채널에 첫 줄 + 스레드로 보내는 스킬",
+      "version": "1.0.0"
+    }
+  ]
+}
